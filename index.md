@@ -1,3 +1,9 @@
+---
+layout: page
+title: Lady Devs' Guide to Getting into Tech
+tagline: A how-to for software industry-ettes 
+---
+
 Hi! Getting started in software can be tricky. Here are a few things that can help.
 
 
