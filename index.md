@@ -21,7 +21,7 @@ Almost any computer made in the last decade has enough processing power. You don
 * letgo website https://us.letgo.com/en
 
 * Internet access can be expensive. If affording it is a problem, you may apply for federally-mandated low-income internet service. Some examples:
-  * from [AT&T]( https://www.att.com/shop/internet/access/#/)
+  * from [AT&T]( https://www.att.com/shop/internet/access/#/)
 
 ## Learning
 
@@ -65,14 +65,10 @@ Not ready for a that big a commitment of your time and money? There are lots of 
 
 Looking for a job in tech? There are lots of resources available.
 
-*[Sign up] (http://orlandotech.org/) for Orlando Tech Association's newsletter is a great resource.
+* [Sign up] (http://orlandotech.org/) for Orlando Tech Association's newsletter is a great resource.
 * [Indeed](http://www.indeed.com/)
 * [Glassdor](https://www.glassdoor.com/index.htm)
 * [LinkedIn](https://www.linkedin.com/)
 * [Ziprecruiter](https://www.ziprecruiter.com/)
 * [Women Who Code](https://www.womenwhocode.com/jobs)
 
-
-## Let us know if this helped.
-
-[Leave Feedback For Us]()
