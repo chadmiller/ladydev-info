@@ -17,8 +17,8 @@ Almost any computer made in the last decade has enough processing power. You don
 
 * Used computers can be found on [Ebay](http://ebay.com)
 * Retailers often have refurbished laptops, like [Dell](https://www.dellrefurbished.com/) and [Lenovo](http://outlet.lenovo.com/)
-* offer up websites or apps
-* letgo website
+* offer up  website https://offerupnow.com/sites
+* letgo website https://us.letgo.com/en
 
 ## Learning
 
@@ -33,19 +33,22 @@ Schools that demand a lot of attention, we'll call "bootcamps" below. More casua
 * Fully online bootcamp programs:
 ** [Bloc](https://www.bloc.io/web-developer-career-bootcamp)
 ** [Coding Dojo](http://www.codingdojo.com/)
+** [Hack Reactor Remote](http://www.hackreactor.com/remote/)
+** [Udacity Online Free Classes] https://www.udacity.com/
 
-* You can find scholarships at ...
+* Scholarships
+** [Course Report](https://www.coursereport.com/blog/bootcamp-scholarships-for-women-a-comprehensive-list)'s list for scholarships available for women.
 * mentorships -- is there a resource for this or should we save this for later?
 * internships
 
 
 Not ready for a that big a commitment of your time and money? There are lots of resources that allow you to tackle a single aspect of web developemt for a minimal investment of time and money.
-* Online schools like [Treehouse](https://teamtreehouse.com/join/start-trial?utm_source=google&campaign=105062766&utm_term=&cid=1027&gclid=Cj0KEQjwkdHABRCHiZ2gs6yGh50BEiQAA91WllZo9pRns_R6jrOkuGZUsjLuxt2OHLH_3wTEMeWFr5YaAv-88P8HAQ), [Code School](https://www.codeschool.com/) and ...
+* Online schools like [Treehouse](https://teamtreehouse.com/join/start-trial?utm_source=google&campaign=105062766&utm_term=&cid=1027&gclid=Cj0KEQjwkdHABRCHiZ2gs6yGh50BEiQAA91WllZo9pRns_R6jrOkuGZUsjLuxt2OHLH_3wTEMeWFr5YaAv-88P8HAQ), [Code School](https://www.codeschool.com/) and [Udacity](https://www.udacity.com/)
 * fastweb search engine
 
 ## Meetups & community
 * Want to connect with other developers in Orlando? Try [Meetup](https://www.meetup.com/)
-* community events
+* [Orlando Tech Association](http://week.orlandotech.org/events) is a great resource for upcoming community events such as Orlando Tech Week, Starter Studio Demo Day, etc
 ** [Women Who Code] has a regular meet up in Tampa(https://www.womenwhocode.com/tampa)
 * [Orlando Tech Assoc](http://orlandotech.org/)
 
@@ -60,4 +63,3 @@ Looking for a job in tech? There are lots of resources available.
 * [LinkedIn](https://www.linkedin.com/)
 * [Ziprecruiter](https://www.ziprecruiter.com/)
 * [Women Who Code](https://www.womenwhocode.com/jobs)
-
