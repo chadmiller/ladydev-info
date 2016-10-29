@@ -17,8 +17,10 @@ Almost any computer made in the last decade has enough processing power. You don
 
 * Used computers can be found on [Ebay](http://ebay.com)
 * Retailers often have refurbished laptops, like [Dell](https://www.dellrefurbished.com/) and [Lenovo](http://outlet.lenovo.com/)
-* offer up  website https://offerupnow.com/sites
+* offer up  website https://offerupnow.com/search/?q=computer#offers
 * letgo website https://us.letgo.com/en
+
+## Low income Internet Service https://www.att.com/shop/internet/access/#/
 
 ## Learning
 
@@ -30,25 +32,28 @@ Schools that demand a lot of attention, we'll call "bootcamps" below. More casua
 ** Close to Orlando: [The Iron Yard](https://www.theironyard.com/locations/orlando.html) has a campus in downtown Orlando as well as in [Tampa](https://www.theironyard.com/locations/tampa-bay.html).
 ** Close to Orlando: [University of Central Florida's Coding Boot Camp](https://codingbootcamp.ce.ucf.edu/).
 
-* Fully online bootcamp programs:
+* Fully-online bootcamp programs:
 ** [Bloc](https://www.bloc.io/web-developer-career-bootcamp)
 ** [Coding Dojo](http://www.codingdojo.com/)
 ** [Hack Reactor Remote](http://www.hackreactor.com/remote/)
-** [Udacity Online Free Classes] https://www.udacity.com/
+** [Udacity Online Free Classes](https://www.udacity.com/)
 
 * Scholarships
 ** [Course Report](https://www.coursereport.com/blog/bootcamp-scholarships-for-women-a-comprehensive-list)'s list for scholarships available for women.
-* mentorships -- is there a resource for this or should we save this for later?
+** [Society of Women Engineers](http://societyofwomenengineers.swe.org/scholarships)
+* mentorships -- is there a resource for this or should save for later?
+* [Women Who Win Mentoring](http://nawboorlando.org/calendar/2017/2/16/women-who-win-mentoring) follows a group mentoring style, but at this time it is only for women small business
+*This website gives you access to a wo
 * internships
 
 
 Not ready for a that big a commitment of your time and money? There are lots of resources that allow you to tackle a single aspect of web developemt for a minimal investment of time and money.
-* Online schools like [Treehouse](https://teamtreehouse.com/join/start-trial?utm_source=google&campaign=105062766&utm_term=&cid=1027&gclid=Cj0KEQjwkdHABRCHiZ2gs6yGh50BEiQAA91WllZo9pRns_R6jrOkuGZUsjLuxt2OHLH_3wTEMeWFr5YaAv-88P8HAQ), [Code School](https://www.codeschool.com/) and [Udacity](https://www.udacity.com/)
+* Online schools like [Treehouse](https://teamtreehouse.com/join/start-trial), [Code School](https://www.codeschool.com/) and [Udacity](https://www.udacity.com/), [Code Academy](https://www.codecademy.com/learn/web) and [Lynda](https://www.lynda.com/Web-Development-training-tutorials/1471-0.html) are a few to get you started.
 * fastweb search engine
 
 ## Meetups & community
 * Want to connect with other developers in Orlando? Try [Meetup](https://www.meetup.com/)
-* [Orlando Tech Association](http://week.orlandotech.org/events) is a great resource for upcoming community events such as Orlando Tech Week, Starter Studio Demo Day, etc
+* [Orlando Tech Association](http://week.orlandotech.org/events) is a great resource for upcoming community events such as Orlando Tech Week, Starter Studio Demo Day, etc.
 ** [Women Who Code] has a regular meet up in Tampa(https://www.womenwhocode.com/tampa)
 * [Orlando Tech Assoc](http://orlandotech.org/)
 
