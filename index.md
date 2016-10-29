@@ -44,6 +44,7 @@ Schools that demand a lot of attention, we'll call "bootcamps" below. More casua
 * mentorships -- is there a resource for this or should save for later?
 * [Women Who Win Mentoring](http://nawboorlando.org/calendar/2017/2/16/women-who-win-mentoring) follows a group mentoring style, but at this time it is only for women small business ( possible design for local tech women mentoring)
 *Talent Nexus for Women-This website gives you access to a women from all over and has designed a process to mentor online: http://mentoringwomensnetwork.com/talent-nexus-corporate/
+
 * internships
 
 
