@@ -59,9 +59,9 @@ For Brighthouse areas, call +1-205-591-6880 (or perhaps +1-855-222-0102)
 
 ## Mentorships
 
-* [Women Who Win Mentoring](http://nawboorlando.org/calendar/2017/2/16/women-who-win-mentoring) follows a group mentoring style, but at this time it is only for women small business ( possible design for local tech women mentoring)
-* Talent Nexus for Women-This website gives you access to a women from all over and has designed a process to mentor online: http://mentoringwomensnetwork.com/talent-nexus-corporate/
-* Call it "wo-mentoring"— a new approach that's more about commitment and learning than about chemistry and power. And, by the way, it also works for men. Fast company article to set up your own mentoring program:https://www.fastcompany.com/34854/womens-ways-mentoring 
+* [Women Who Win Mentoring](http://nawboorlando.org/calendar/2017/2/16/women-who-win-mentoring) follows a group mentoring style, but at this time it is only for women small business (possible design for local tech women mentoring)
+* [Talent Nexus for Women](http://mentoringwomensnetwork.com/talent-nexus-corporate/) gives you access to a women from all over and has designed a process to mentor online.
+* Call it "wo-mentoring"— a new approach that's more about commitment and learning than about chemistry and power. [Fast company magazine has an article](https://www.fastcompany.com/34854/womens-ways-mentoring) about setting up your own mentoring program.
 
 
 # Meetups & community
