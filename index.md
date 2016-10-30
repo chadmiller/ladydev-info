@@ -1,5 +1,4 @@
-(205)
-591-6880---
+---
 layout: front
 title: Lady Devs' Guide to Getting into Tech
 tagline: A how-to for software industry-ettes 
