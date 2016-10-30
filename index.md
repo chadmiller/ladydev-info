@@ -68,7 +68,7 @@ For Brighthouse areas, call +1-205-591-6880 (or perhaps +1-855-222-0102)
 
 * [Orlando Tech Association](http://week.orlandotech.org/events) is a great resource for upcoming community events such as Orlando Tech Week, Starter Studio Demo Day, etc.
 * [Meetup](https://www.meetup.com/) is hodgepodge of meetings across all topics and ranges of quality
-* [Women Who Code] has a regular meet up in Tampa(https://www.womenwhocode.com/tampa)
+* Women Who Code has [a regular meet up in Tampa](https://www.womenwhocode.com/tampa)
 * [Orlando Tech Association](http://orlandotech.org/)
 
 
